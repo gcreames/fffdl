@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the Fellas Fantasy Football Dynasty League, the place where dynasty fantasy football happens.</p>
+  <p>Welcome to the Fantasy Football Fellas Dynasty League, the place where dynasty fantasy football happens.</p>
   <p>Made up of Commissioner, Sully Reames, and league owners, Grayson Reames, Foster Hemond, Andrew Baker, Brody Geddings, Daniel Coker, Greyson Williams, Jack Cummings, Jacob Calvert, Luke Moody, Mason Carver, Sean Sorbin, the FFFDL has no shortage of crazy trades, upset victories, and ridiculous takes.</p>
   <p>Follow the FFFDL here all season to stay up to date on all the action.</p>
 `;

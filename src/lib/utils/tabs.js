@@ -75,7 +75,7 @@ export const tabs = [
     },
     {
         icon: 'lightbulb',
-        label: 'Resources',
-        dest: '/resources',
+        label: 'KeepTradeCut',
+        dest: 'https://keeptradecut.com/',
     },
 ];
